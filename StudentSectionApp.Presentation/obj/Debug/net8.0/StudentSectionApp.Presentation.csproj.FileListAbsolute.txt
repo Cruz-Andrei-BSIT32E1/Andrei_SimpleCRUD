@@ -1,0 +1,10 @@
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Presentation\obj\Debug\net8.0\StudentSectionApp.Presentation.csproj.AssemblyReference.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Presentation\obj\Debug\net8.0\StudentSectionApp.Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Presentation\obj\Debug\net8.0\StudentSectionApp.Presentation.AssemblyInfoInputs.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Presentation\obj\Debug\net8.0\StudentSectionApp.Presentation.AssemblyInfo.cs
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Presentation\obj\Debug\net8.0\StudentSectionApp.Presentation.csproj.CoreCompileInputs.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Presentation\obj\Debug\net8.0\StudentSectionApp.Presentation.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Presentation\obj\Debug\net8.0\StudentSectionApp.Presentation.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Presentation\obj\Debug\net8.0\StudentSectionApp.Presentation.RazorAssemblyInfo.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Presentation\obj\Debug\net8.0\StudentSectionApp.Presentation.RazorAssemblyInfo.cs
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Presentation\obj\Debug\net8.0\StudentSectionApp.Presentation.sourcelink.json
