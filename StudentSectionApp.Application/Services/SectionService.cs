@@ -7,10 +7,10 @@ using StudentSectionApp.Domain.Interfaces;
 
 namespace StudentSectionApp.Application.Services
 {
-    public class SectionService : ISectionService 
+    public class SectionService : ISectionService
     {
-        private readonly ISectionRepository_sectionRepository;
-        private readonly IStudentRepository_studentRepository;
+        private readonly ISectionRepository _sectionRepository;
+        private readonly IStudentRepository _studentRepository;
 
         public SectionService(ISectionRepository sectionRepository, IStudentRepository studentRepository)
         {
@@ -37,6 +37,11 @@ namespace StudentSectionApp.Application.Services
         {
             var section = new Section { Id = sectionDto.Id, Name = sectionDto.Name, StudentIds = sectionDto.StudentIds };
             _sectionRepository.UpdateSection(section);
+        }
+
+        public IEnumerable<SectionDto> GetAllSections()
+        {
+            return _sectionRepository.GetAllSections().Select(s => new SectionDto { Id = s.Id, Name = s.Name, StudentIds = s.StudentIds });
         }
 
         public void AddStudentToSection(int studentId, int sectionId)

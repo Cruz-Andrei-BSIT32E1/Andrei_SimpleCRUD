@@ -1,0 +1,12 @@
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\bin\Debug\net8.0\StudentSectionApp.Domain.deps.json
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\bin\Debug\net8.0\StudentSectionApp.Domain.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\bin\Debug\net8.0\StudentSectionApp.Domain.pdb
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\obj\Debug\net8.0\StudentSectionApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\obj\Debug\net8.0\StudentSectionApp.Domain.AssemblyInfoInputs.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\obj\Debug\net8.0\StudentSectionApp.Domain.AssemblyInfo.cs
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\obj\Debug\net8.0\StudentSectionApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\obj\Debug\net8.0\StudentSectionApp.Domain.sourcelink.json
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\obj\Debug\net8.0\StudentSectionApp.Domain.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\obj\Debug\net8.0\refint\StudentSectionApp.Domain.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\obj\Debug\net8.0\StudentSectionApp.Domain.pdb
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Domain\obj\Debug\net8.0\ref\StudentSectionApp.Domain.dll

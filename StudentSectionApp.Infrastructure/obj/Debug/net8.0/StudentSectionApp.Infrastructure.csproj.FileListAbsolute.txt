@@ -1,0 +1,16 @@
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\bin\Debug\net8.0\StudentSectionApp.Infrastructure.deps.json
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\bin\Debug\net8.0\StudentSectionApp.Infrastructure.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\bin\Debug\net8.0\StudentSectionApp.Infrastructure.pdb
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\bin\Debug\net8.0\StudentSectionApp.Domain.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\bin\Debug\net8.0\StudentSectionApp.Domain.pdb
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\StudentSectionApp.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\StudentSectionApp.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\StudentSectionApp.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\StudentSectionApp.Infrastructure.AssemblyInfo.cs
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\StudentSectionApp.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\StudentSectionApp.Infrastructure.sourcelink.json
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\StudentS.DD2B3277.Up2Date
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\StudentSectionApp.Infrastructure.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\refint\StudentSectionApp.Infrastructure.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\StudentSectionApp.Infrastructure.pdb
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Infrastructure\obj\Debug\net8.0\ref\StudentSectionApp.Infrastructure.dll
