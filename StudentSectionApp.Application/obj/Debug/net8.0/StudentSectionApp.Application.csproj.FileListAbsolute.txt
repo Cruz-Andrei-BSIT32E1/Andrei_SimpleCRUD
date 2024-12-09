@@ -1,0 +1,16 @@
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\StudentSectionApp.Application.csproj.AssemblyReference.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\StudentSectionApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\StudentSectionApp.Application.AssemblyInfoInputs.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\StudentSectionApp.Application.AssemblyInfo.cs
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\StudentSectionApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\StudentSectionApp.Application.sourcelink.json
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\bin\Debug\net8.0\StudentSectionApp.Application.deps.json
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\bin\Debug\net8.0\StudentSectionApp.Application.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\bin\Debug\net8.0\StudentSectionApp.Application.pdb
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\bin\Debug\net8.0\StudentSectionApp.Domain.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\bin\Debug\net8.0\StudentSectionApp.Domain.pdb
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\StudentS.74BF0755.Up2Date
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\StudentSectionApp.Application.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\refint\StudentSectionApp.Application.dll
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\StudentSectionApp.Application.pdb
+C:\Users\gerod\Desktop\Andrei_SimpleCRUD\StudentSectionApp.Application\obj\Debug\net8.0\ref\StudentSectionApp.Application.dll

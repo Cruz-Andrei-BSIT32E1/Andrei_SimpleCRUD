@@ -18,6 +18,46 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\gerod\Desktop\Andrei_SimpleCRUD
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/Home/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXEhvbWVcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/Home/Privacy.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXEhvbWVcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/Sections/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXFNlY3Rpb25zXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/Sections/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXFNlY3Rpb25zXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/Shared/Error.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXFNoYXJlZFxFcnJvci5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXFNoYXJlZFxfVmFsaWRhdGlvblNjcmlwdHNQYXJ0aWFsLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/Students/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXFN0dWRlbnRzXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/Students/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXFN0dWRlbnRzXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXF9WaWV3SW1wb3J0cy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXF9WaWV3U3RhcnQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/gerod/Desktop/Andrei_SimpleCRUD/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
@@ -41,6 +81,10 @@ build_metadata.AdditionalFiles.CssScope =
 [C:/Users/gerod/Desktop/Andrei_SimpleCRUD/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/gerod/Desktop/Andrei_SimpleCRUD/StudentSectionApp.Presentation/Views/Shared/_Layout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = U3R1ZGVudFNlY3Rpb25BcHAuUHJlc2VudGF0aW9uXFZpZXdzXFNoYXJlZFxfTGF5b3V0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = b-bnqenmptcc
 
 [C:/Users/gerod/Desktop/Andrei_SimpleCRUD/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
